@@ -1,1 +1,9 @@
-j
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1280x720
+4c39ebb151c5242702ab7a6dee8d6acd--livemaster--vnksmj55t8_dgfhfg_tcode720p--tracks-v1a1--mono.m3u8?hls_proxy_host=af04493077285097c0f1247c1ad0f16d
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=640x480
+22c3328d2f31d736c7ae7476beb4777a--livemaster--vnksmj55t8_dgfhfg_tcode480p--tracks-v1a1--mono.m3u8?hls_proxy_host=af04493077285097c0f1247c1ad0f16d
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=480x360
+6fcded87a30aa08fe1a3413ddfce9f8d--livemaster--vnksmj55t8_dgfhfg_tcode360p--tracks-v1a1--mono.m3u8?hls_proxy_host=af04493077285097c0f1247c1ad0f16d
+
